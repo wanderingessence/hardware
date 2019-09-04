@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for braking_io
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -197,7 +197,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -377,6 +377,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document21]
+DocumentPath=thermistor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UUIKBBBQ
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -392,7 +409,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=0
+ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
@@ -424,7 +441,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for braking_io
 
 [OutputGroup1]
 Name=Netlist Outputs
