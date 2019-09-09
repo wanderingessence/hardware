@@ -14,7 +14,7 @@ Altium only works on Windows. See  [Altium System Requirements](https://www.alti
    + cd ../..
    + mkdir git
    + cd git
-   + git clone https://github.com/badgerloop-software/podiv-altium.git
+   + git clone https://github.com/badgerloop-software/hardware.git
    + cd podiv-altium
    + git checkout -b <your-username_training>
    + Open Altium and sign in. You are now on a training branch that you will complete your first getting started project on if you are new to Altium. 
