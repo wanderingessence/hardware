@@ -27,6 +27,11 @@ The Battery Protection Board is responsible for power management on the low volt
   * 5V and 3.3V rails shall be present and copied from the Remote IO design
   * A study shall be conducted on each load to determine if 24V buck-boost regulation is required
   * A study shall be conducted on whether any loads require 12V power
-# MCU
+* MCU
   * Board shall be capable of sending telemetry, over UART, to the primary flight computer
   * Board shall be capable of receiving commands to actuate different relays, over UART, from the primary flight computer
+
+# Info
+* Schematic design: Shelby Riggleman and Ryan Castle
+* Layout: TBD
+* Need date: 10/1/19
