@@ -49,7 +49,7 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=C:\git\hardware\braking_io\WorkingSchExports\braking_io_rev6.pdf
+OutputFilePath2=C:\git\hardware\braking_io\WorkingSchExports\braking_io_rev5.pdf
 ReleaseManaged2=0
 OutputBasePath2=C:\git\hardware\braking_io\WorkingSchExports\
 OutputPathMedia2=
@@ -57,7 +57,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=braking_io_rev5.pdf
+OutputFileName2=braking_io_rev7.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -128,7 +128,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\git\hardware\braking_io\WorkingSchExports\braking_io_rev6.pdf
+RelativeOutputPath2=C:\git\hardware\braking_io\WorkingSchExports\braking_io_rev5.pdf
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
