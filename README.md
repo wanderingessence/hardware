@@ -29,6 +29,10 @@ _NOTE: If you go click "Sign In" directly from User, you will be asked for a ser
 + View the [Badgerloop Altium Presentation](https://uwmadison.box.com/s/2sdt8kfaeyde04sg8edn62u7vtrdsiyx") for a getting started project. You can work locally for this project. Git-specific training will be posted at a later date. 
 + If you are new to using Git, read through the [Altium Git Guide](https://uwmadison.app.box.com/file/324684243638) which provides some common commands to get you started. 
 + Multivibrator Project: The Multivibrator Project from Altium is hands down the best training resource for getting started with Altium. We ask that everyone new to PCB design complete this tutorial on their own prior to working on Badgerloop schematics or boards. While we want to help everyone as much as possible, it's on you to get a bit of a background. Feel free to ask Ezra, Shelby or Ryan if you have any issues with the tutorial. [Multivibrator Tutorial] (https://www.altium.com/documentation/18.0/display/ADES/From+Idea+to+Manufacture+-+Driving+a+PCB+Design+through+Altium+Designer). This guide goes "From Idea to Manufacture" and drives a design all the way though rough-drawing your circuit, making library symbols and footprints, schematic capture, placement, layout, and routing, as well as manufacturing outputs. 
+
+## Github Basics
+TODO @Kevin 
+
 ## Acknowledgements
 + [Altium](www.altium.com), for being an amazing sponsor! 
 + Dave Jones of the EEVBlog, as we'd have no idea what we were doing without his videos.
