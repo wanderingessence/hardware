@@ -310,7 +310,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PAHJSQGX
 
 [Document17]
-DocumentPath=shelby_temp.SchLib
+DocumentPath=..\libraries\shelby_temp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -327,7 +327,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LYTSVRWR
 
 [Document18]
-DocumentPath=shelby_temp.PcbLib
+DocumentPath=..\libraries\shelby_temp.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PKAKIBES
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
