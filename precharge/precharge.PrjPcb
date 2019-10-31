@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VQABMBNX
+DocumentUniqueId=JACUFQHM
 
 [Document8]
 DocumentPath=..\libraries\connector.PcbLib
@@ -376,6 +376,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBKEKTSW
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for precharge\Design Rule Check - precharge.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
