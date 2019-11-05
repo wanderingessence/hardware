@@ -497,10 +497,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for braking_io\BOM\Bill of Materials-braking_io.xls
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for braking_io\Design Rule Check - braking_io.html
 DItemRevisionGUID=
 
