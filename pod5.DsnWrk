@@ -8,7 +8,3 @@ ProjectPath=precharge\precharge.PrjPcb
 ProjectPath=main_io\main_io.PrjPcb
 [Project4]
 ProjectPath=braking_io\braking_io.PrjPcb
-[Project5]
-ProjectPath=..\..\podiv-altium\src\prj\hv_io.PrjPCB
-[Project6]
-ProjectPath=..\..\battery_protection\hardware\precharge\precharge.PrjPcb
