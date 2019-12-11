@@ -8,3 +8,5 @@ ProjectPath=main_io\main_io.PrjPcb
 ProjectPath=braking_io\braking_io.PrjPcb
 [Project4]
 ProjectPath=battery_protection\battery_protection.PrjPcb
+[Project5]
+ProjectPath=breakout_board\breakout_board.PrjPcb
