@@ -531,7 +531,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QGQUXQIH
 
 [Document30]
-DocumentPath=analog_sensors.SchDoc
+DocumentPath=misc_sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
