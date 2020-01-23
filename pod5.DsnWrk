@@ -3,10 +3,10 @@ Version=1.0
 [Project1]
 ProjectPath=precharge\precharge.PrjPcb
 [Project2]
-ProjectPath=main_io\main_io.PrjPcb
-[Project3]
 ProjectPath=braking_io\braking_io.PrjPcb
-[Project4]
+[Project3]
 ProjectPath=battery_protection\battery_protection.PrjPcb
-[Project5]
+[Project4]
 ProjectPath=breakout_board\breakout_board.PrjPcb
+[Project5]
+ProjectPath=main_io\main_io.PrjPcb
