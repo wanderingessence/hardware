@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=breakout_board.OutJob
 Description=
-TargetOutputMedium=Gerbers
+TargetOutputMedium=PDF
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=HP LaserJet Pro MFP M225-M226 PCL 6
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -40,14 +40,14 @@ OutputName1=Schematic Prints
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=0
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
 OutputEnabled1_OutputMedium4=0
 OutputEnabled1_OutputMedium5=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.12|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.94|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType2=BOM_PartType
@@ -70,7 +70,7 @@ OutputName3=Gerber Files
 OutputCategory3=Fabrication
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
@@ -84,7 +84,7 @@ OutputName4=NC Drill Files
 OutputCategory4=Fabrication
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
@@ -98,14 +98,14 @@ OutputName5=Copy of PCB Prints
 OutputCategory5=Documentation
 OutputDocumentPath5=breakout_board.PcbDoc
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=2
 OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=0
 OutputEnabled5_OutputMedium5=0
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.48|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.01|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration5_Name2=OutputConfigurationParameter2
@@ -125,7 +125,7 @@ Configuration5_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full
 PcbPrintPreferences5=
 
 [PublishSettings]
-OutputFilePath2=C:\git\braking_io\hardware\braking_io\.\braking_io.pdf
+OutputFilePath2=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\breakout_board\.\braking_io.pdf
 ReleaseManaged2=0
 OutputBasePath2=.\
 OutputPathMedia2=
@@ -133,9 +133,9 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=braking_io.pdf
+OutputFileName2=breakout_board.pdf
 OutputFileNameMulti2=
-UseOutputNameForMulti2=1
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
 PromptOverwrite2=1
@@ -217,7 +217,7 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\git\braking_io\hardware\braking_io\.\braking_io.pdf
+RelativeOutputPath2=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\breakout_board\.\braking_io.pdf
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\Andrew Cook\Desktop\badgerloopaltiumfiles\hardware\breakout_board\Project Outputs for breakout_board\
 OpenOutputs3=1
