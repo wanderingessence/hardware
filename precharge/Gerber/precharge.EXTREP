@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: precharge.GBR   2/11/2020  9:11:09 PM
+Gerber File Extension Report For: precharge.GBR   2/13/2020  10:21:51 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,4 +16,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM4                Board Outline                           
 ------------------------------------------------------------------------------------------
